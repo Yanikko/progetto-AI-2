@@ -19,17 +19,17 @@ Il dataset non è incluso nel repository per motivi di dimensione e viene scaric
 ---
 
 ## Struttura del repository
-data/
-└── raw/ # dati grezzi (non versionati)
+- `data/raw/`  
+  Dati grezzi (non versionati)
 
-notebooks/
-├── 01_eda_HARTH.ipynb # analisi esplorativa sui dati raw
-├── 02_preprocessing_HARTH.ipynb # preprocessing e feature engineering
-├── 03_modelli_HARTH.ipynb # modelli e valutazione
-├── 04_run_all_HARTH.ipynb # esecuzione completa della pipeline
+- `notebooks/`
+  - `01_eda_HARTH.ipynb` — analisi esplorativa sui dati raw  
+  - `02_preprocessing_HARTH.ipynb` — preprocessing e feature engineering  
+  - `03_modelli_HARTH.ipynb` — modelli e valutazione  
+  - `04_run_all_HARTH.ipynb` — esecuzione completa della pipeline  
 
-README.md
-requirements.txt
+- `README.md`  
+- `requirements.txt`
 
 ## Pipeline di lavoro
 
