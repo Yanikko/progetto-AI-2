@@ -1,6 +1,3 @@
-# progetto-AI-2
-harth activity recognition
-
 # Progetto AI 2 – Human Activity Recognition
 Progetto di Intelligenza Artificiale II.
 Obiettivo: classificare attività umane a partire da dati di accelerometri indossabili.
