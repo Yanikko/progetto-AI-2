@@ -62,6 +62,22 @@ requirements.txt
 
 ---
 
+## Esecuzione
+
+I notebook possono essere eseguiti singolarmente seguendo l’ordine numerico:
+
+'01_eda_HARTH.ipynb'
+
+'02_preprocessing_HARTH.ipynb'
+
+'03_modelli_HARTH.ipynb'
+
+In alternativa, è possibile eseguire l’**intera pipeline** in sequenza aprendo ed eseguendo:
+
+'04_run_all_HARTH.ipynb'
+
+---
+
 ## Requisiti
 
 - Python ≥ 3.9
@@ -71,22 +87,6 @@ Installazione:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-## Esecuzione
-
-I notebook possono essere eseguiti singolarmente seguendo l’ordine numerico:
-
-01_eda_HARTH.ipynb
-
-02_preprocessing_HARTH.ipynb
-
-03_modelli_HARTH.ipynb
-
-In alternativa, è possibile eseguire l’intera pipeline in sequenza aprendo ed eseguendo:
-
-04_run_all_HARTH.ipynb
 
 
 
