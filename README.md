@@ -66,15 +66,15 @@ requirements.txt
 
 I notebook possono essere eseguiti singolarmente seguendo l’ordine numerico:
 
-'01_eda_HARTH.ipynb'
+- `01_eda_HARTH.ipynb`
 
-'02_preprocessing_HARTH.ipynb'
+- `02_preprocessing_HARTH.ipynb`
 
-'03_modelli_HARTH.ipynb'
+- `03_modelli_HARTH.ipynb`
 
 In alternativa, è possibile eseguire l’**intera pipeline** in sequenza aprendo ed eseguendo:
 
-'04_run_all_HARTH.ipynb'
+- `04_run_all_HARTH.ipynb`
 
 ---
 
