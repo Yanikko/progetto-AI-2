@@ -1,8 +1,9 @@
 import numpy as np
 import pandas as pd
 
-def load_data(path):
-    df = pd.read_csv(path)
+def load_data(path, nrows=None):
+
+    df = pd.read_csv(path, sep=None, engine="python", nrows=nrows)
     df = df.drop(columns=["index", "Unnamed: 0"], errors="ignore")
     return df
 
